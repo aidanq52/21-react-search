@@ -1,0 +1,6 @@
+#Node module folders
+node_modules
+client/node_modules
+
+#enviornment variables
+.env
