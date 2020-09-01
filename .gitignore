@@ -5,4 +5,5 @@ client/node_modules
 #enviornment variables
 .env
 
-client/package-lock.json
+client/package-lock
+package-lock
